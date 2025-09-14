@@ -26,8 +26,9 @@
 
 ### 🛠️ Tech Stack  
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,fastapi,git,mysql,html,css,js,react,nextjs,dockers," />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,git,linux,mysql,postgresql,html,css,js,react,nextjs,docker" />
 </p>
 
 ---
