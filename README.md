@@ -13,14 +13,12 @@
 🎓 I am a **Software Engineering graduate** with a strong passion for **Machine Learning**, **Artificial Intelligence**, and **Blockchain technology**.  
 💡 My journey has been focused on building **intelligent systems** that learn, adapt, and solve meaningful problems.  
 
-🔧 Skilled in **Python, Scikit-Learn, NumPy, FastAPI**, and more.  
-💻 I have developed projects including:  
-- **AI-Powered Trading Bot** – Predicting crypto and stock trends with automation  
-- **Predictive Models** – Leveraging data-driven insights for decision making  
-- **Real-Time Data Analysis Tools** – Turning raw streams into actionable information  
+🔧 Skilled in **Python, Scikit-Learn, TensorFlow, PyTorch, and FastAPI**, with a focus on writing **scalable, efficient, and production-ready code**.  
+⚡ Currently expanding my knowledge of **Blockchain concepts** such as decentralization, smart contracts, and cryptographic security.  
+🔗 I am particularly interested in the intersection of **AI and Blockchain**, and how these technologies can be combined to create **secure, transparent, and trustworthy systems**.  
 
-⚡ Alongside AI, I’m exploring **Blockchain** — from decentralization and smart contracts to cryptographic security.  
-🔗 I’m particularly interested in combining AI and Blockchain to create **secure, transparent, and trustworthy systems**.  
+📚 Always eager to learn, collaborate, and contribute to projects that push the boundaries of technology.  
+
 
 ---
 
