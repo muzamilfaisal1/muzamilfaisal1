@@ -12,7 +12,6 @@
 
 🎓 I am a **Software Engineering graduate** with a strong passion for **Machine Learning**, **Artificial Intelligence**, and **Blockchain technology**.  
 💡 My journey has been focused on building **intelligent systems** that learn, adapt, and solve meaningful problems.  
-
 🔧 Skilled in **Python, Scikit-Learn, TensorFlow, PyTorch, and FastAPI**, with a focus on writing **scalable, efficient, and production-ready code**.  
 ⚡ Currently expanding my knowledge of **Blockchain concepts** such as decentralization, smart contracts, and cryptographic security.  
 🔗 I am particularly interested in the intersection of **AI and Blockchain**, and how these technologies can be combined to create **secure, transparent, and trustworthy systems**.  
