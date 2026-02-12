@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=200&section=header&text=Muhammad%20Muzamil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:6c63ff&height=200&section=header&text=Muhammad%20Muzamil&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <p align="center">
   <a href="https://github.com/muzamilfaisal1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=650&lines=%F0%9F%9A%80+AI+%26+Machine+Learning+Engineer;%F0%9F%A7%A0+Generative+AI+%7C+LLMs+%7C+RAG+Pipelines;%F0%9F%94%90+AI+Security+%26+Autonomous+Agents;%F0%9F%8C%90+Full+Stack+%26+Web3+Developer" alt="Typing SVG" /></a>
@@ -130,10 +130,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c63ff&height=100&section=footer" width="100%" />
-</p>
 
 <p align="center">
   <strong>Got a project idea? Let's build it together.</strong><br/><br/>
